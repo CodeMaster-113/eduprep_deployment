@@ -1,1 +1,1 @@
-# eduprep_deployment
+# dbms-mini-proj
